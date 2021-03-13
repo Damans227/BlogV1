@@ -1,0 +1,11 @@
+main:
+  - title: "Home"
+    url: "/"
+  - title: "Posts"
+    url: /pages/posts/
+  - title: "Projects"
+    url: /pages/projects/
+  - title: "Notes"
+    url: /pages/notes/
+  - title: "About"
+    url: /pages/about/
