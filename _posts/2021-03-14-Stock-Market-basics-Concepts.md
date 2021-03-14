@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Stock Market basic concepts - Part I"
-date:   2021-11-3 22:04:11 -0500
+date:   2021-03-14 15:38:11 -0500
 categories: Docker
 show_date: true 
 header:
@@ -11,9 +11,9 @@ header:
 
 I started my investment journey last year i.e 2020 and have learnt quite a few things about stock market. I would like to share some of my knowledge about investing with everyone, which will particularly be helpful for the beginners. 
 
-Basically, I have put together a list of 7 key terms that you may hear often when people talk about stock market and investing. If you’re a DIY investor, and just starting then chances are, you may not be familiar with these terms. But sooner or later you will come across them when you  do your research and invest. So, I am gonna try and explain these terms in simple terms so it can be helpful to you. So, lets get started, and Happy Investing! 
+<blockquote>Basically, I have put together a list of 7 key terms that you may hear often when people talk about stock market and investing. If you’re a DIY investor, and just starting then chances are, you may not be familiar with these terms. But sooner or later you will come across them when you  do your research and invest. So, I am gonna try and explain these terms in simple terms so it can be helpful to you. So, lets get started, and Happy Investing! </blockquote>
 
-<h1>1. Stock</h1>
+<h1 id="Stock">1. Stock</h1>
 
 Stock is a pretty much the most basic term in stock market investing also known as a share in a
 company. It is a type of financial security that grants the holder of that stock a proportional ownership in the company.
@@ -28,7 +28,7 @@ Apple, is going to be reflected proportionally to the amount of shares that you 
 they bought some stock in Tesla now you'll know what the heck they're talking about.</blockquote>
 
 
-<h1>2. Bond</h1>
+<h1 id="Bond">2. Bond</h1>
 
 Next up on the list is most likely a term you've heard about in and around investment talk and that is
 the bond. A bond is different from a stock. When you invest in Bonds, you're not purchasing and holding equity in a company and
@@ -41,7 +41,7 @@ as the time and date at which the loan must be paid back, which is known as the 
 <blockquote>Now, there's a lot more that we could dive into relative to how bond interest rates are calculated as well as why bonds
 typically do better when equity markets are taking a beating but for length of this post, I am gonna keep it to the basics.</blockquote>
 
-<h1>3. ETF</h1>
+<h1 id="ETF">3. ETF</h1>
 
 All right moving on to the next term in today's list, is an exchange-traded fund or ETF.
 ETF is basically a basket of various financial securities ranging from stocks bonds real estate gold and commodities and
@@ -54,7 +54,7 @@ There's a bunch of different ETFs that you can choose from that each have a diff
 seek to track different indexes and markets, for example the ETF vfv is an ETF that seeks to track their
 the S&P 500 ,whereas the ETF hxq is one that seeks to track in the Nasdaq 100. 
 
-<h1>4. Mutual Funds</h1>
+<h1 id="Mutual Funds">4. Mutual Funds</h1>
 
 Now following the ETF, you might be thinking to yourself that this sounds pretty similar to another financial
 product known as the mutual fund, and to be honest they do have some similarities. Notably the fact that they hold multiple
@@ -76,7 +76,7 @@ If you do end up purchasing mutual funds though the value of each one of your sh
 actual returns of the different financial securities within the mutual fund just like an ETF basically.
 
 
-<h1>5. REIT</h1>
+<h1 id="REIT">5. REIT</h1>
 
 Let's now move on to another term, called REIT which is a short form for real estate investment trust. In its essence a real
 estate investment trust or REIT is a company that owns and operates real estate and gets its revenues from rental
@@ -87,7 +87,7 @@ different forms such as residential properties or buildings commercial propertie
 REITs are so attractive to dividend investors, because to qualify as a REIT a company needs to follow certain guidelines. One of them being that at a minimum the company needs to return 90 percent or more of the net income from a calendar year back to its
 shareholders. This is one of the factors contributing to high dividend yields that we see in REITs.
 
-<h1>6. Market Capitalization </h1>
+<h1 id="Market Capitalization">6. Market Capitalization </h1>
 
 Next term that I want to cover is less of a general concept like a stock or an ETF for example but it's more of a technical indicator for the market value of a company. I'm referring here to the market capitalization of a stock or market cap, which is a
 quick indicator or quick snapshot of the market value of a company at that given time.
@@ -99,14 +99,14 @@ steady revenue and therefore can pay out dividends to their investors or shareho
 
 However if a company has let's say two billion dollars or less and market cap most likely this is going to be a company that's still looking to grow and expand. Therefore reinvesting all during that income into growth of the company and they're not gonna have any money left over to pay out as dividend to investors. 
 
-<h1>7. Dividend </h1>
+<h1 id="Dividend">7. Dividend </h1>
 
 Next term I am gonna be covering in this blog post is dividend. A dividend, if we want to be really simple, is basically just a reward that a company pays out to its investors in return for holding shares of the company. Dividends are paid out to investors typically when a company has matured and therefore has a steady recurring net income and can afford to pay out a proportion of its net income to shareholders. 
 
 Paying out dividends to shareholders though really isn't an obligation and companies can choose to do so whichever way they want based on their overall strategy let's look at a
  
  
- <h1>Summary</h1>
+ <h1 id="Summary">Summary</h1>
  
 I hope, this post gave you a better understanding of some of the basic terminology for stock market investing. In part two of this blog, I will be going over more technical stuff such as for example earnings per share price to book ratio price, their earnings ratio and a bunch of other things. Thanks a lot for reading this far! 
 
