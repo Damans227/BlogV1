@@ -71,7 +71,7 @@ paginate: 5
 author:
   name: "Daman Arora"
   avatar: "/assets/images/Damanarora.png"
-  bio: "Hello World! <br /> I’m a graduate student at Carleton University and a Software Engineer at IBM. I use this website as a public journal. My goal is to create a collection of thoughts that expresses who I am and what I do." # Note: Markdown is allowed
+  bio: "Hello World! <br /> I’m a graduate student at **[Carleton University](https://carleton.ca/)** and a Software Engineer at **[IBM Canada](https://www.ibm.com/ca-en)**. I use this website as a public journal. My goal is to create a collection of thoughts that expresses who I am and what I do." # Note: Markdown is allowed
   location: "Canada"
   links:
     - label: "Websites"
@@ -124,4 +124,5 @@ plugins: #******ENABLE THIS*****
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  
 
