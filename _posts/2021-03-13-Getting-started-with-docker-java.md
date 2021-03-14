@@ -13,7 +13,7 @@ Throughout the article, I am going to articulate the way of how to connect with 
 
 <h1 id="Overview">1. Overview</h1>
 
-I have been using docker for containerizing my apps for a while now. As an inherent developer, I have had this urge to develop a Docker Client of my own to automate the process of containerization. So, recently I decided to take up on a personal project to develop an end to end application with GUI that would connect with Docker Daemon and execute the Docker CLI commands based on user input through a Dashboard.
+I have been using docker for containerizing my apps for a while now. As an inherent developer, I have had this urge to develop a custom Docker Client to simplify and streamline the process of containerization. So, recently I decided to take up a personal project and develop an end to end application with an intuitive graphical user interface (GUI) that can connect with Docker Daemon on the backend and execute Docker CLI commands based on the user input received via a centralized Dashboard.
 
 <blockquote>
 Although, I am still working on this app, but when I was exploring the Docker-Java API available out there, I ended up writing a simple JAVA utility that can deploy a container for you in just few clicks. Lemme walk you through this journey of mine. 
@@ -38,7 +38,7 @@ First, we need to add the main dependency into our `pom.xml` file:
 
 <h1 id="Docker-client">4. Using a Docker Client</h1>
 
-In order to communicate with `Docker Daemon`, we have to instantiate a Docker Client using DockerClient interface which uses a builder class relying on the instance of `DockerClientConfig`. `DockerClientConfig` is used for telling the library how to access Docker, which credentials to use to pull from Docker registries, etc 
+In order to communicate with `Docker Daemon`, we have to instantiate a Docker Client by leveraging DockerClient java interface which relies on a builder class called `DockerClientConfig`. `DockerClientConfig` is used for telling the library how to access Docker, which credentials to use to pull from Docker registries, etc etc. 
 
 {% highlight java %}
 DefaultDockerClientConfig clientConfig = DefaultDockerClientConfig.createDefaultConfigBuilder()
@@ -116,7 +116,7 @@ while(it.hasNext()) {
 
 <h2 id="Stop-a-container">5.6 Stop a container </h2>
 
-You can stope the newly created container by using method, `stopContainerCmd()`. 
+You can stop the newly created container by using method, `stopContainerCmd()`. 
 
 {% highlight java %}
 while(true) {
@@ -135,6 +135,6 @@ System.out.println("Container for "+pullImage+ " stopped!");
 
 <h1 id="Summary">6. Summary</h1>
 
-This article provide you with a very brief introduction to `Docker-Java api` for creating custom apps to manage docker. The app I have created is available on my [Github][Github-repo]. You can clone the repo and give it a try. 
+This article provides you with a very brief introduction to `Docker-Java api` for creating custom apps to manage docker. The app I have created is available on my [Github][Github-repo]. You can clone the repo and give it a try. 
 
 [Github-repo]: https://github.com/Damans227/docker-java
