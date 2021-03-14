@@ -20,8 +20,8 @@ company. It is a type of financial security that grants the holder of that stock
 
 For example, if theoretically Apple computers, a public company had 10 available shares to purchase and you
 owned two of the 10 shares then you would have 20% ownership and therefore 20% voting power in that company.
-Now,public companies though that are traded on exchanges will typically have hundreds of thousands if not
-millions of issued shares to the public and therefore your relative proportion if you own let's say a hundred shares an
+Now, public companies though that are traded on exchanges will typically have hundreds of thousands if not
+millions of issued shares to the public and therefore your relative proportion, if you own let's say a hundred shares an
 Apple, is going to be reflected proportionally to the amount of shares that you own based on the amount of issued shares in the market.
 
 <blockquote>So next time you're waiting in line at Starbucks and you see those teenagers in the corner talking about the fact that
