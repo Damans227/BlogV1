@@ -1,11 +1,13 @@
 main:
   - title: "Home"
     url: "/"
-  - title: "Posts"
-    url: /pages/posts/
-  - title: "Projects"
-    url: /pages/projects/
-  - title: "Notes"
-    url: /pages/notes/
   - title: "About"
     url: /pages/about/
+  - title: "Posts"
+    url: /pages/posts/
+  - title: "Tags"
+    url: /pages/tags/
+  - title: "Projects"
+    url: /pages/projects/
+
+
