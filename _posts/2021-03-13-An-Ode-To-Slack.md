@@ -9,7 +9,7 @@ header:
 
 ---
 
-I like using `Slack` a lot at work and school. It's been a few years now that it came along and since then my love for slack has been growing, so much so, that at some point in time I also wrote a poem to express my admiration for it. Today, I would like to share that poem with everyone, Enjoy!  
+I like using `Slack` a lot at work and school. It's been a few years now that it came along and since then my love for slack has been growing, so much so, that a short while ago, I also wrote a poem to express my admiration for it. Today, I would like to share that poem with everyone, Enjoy!  
 
 <h1 id="An Ode To Slack!">An ode to Slack!</h1>
 
