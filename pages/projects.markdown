@@ -25,7 +25,7 @@ feature_row2:
 ---
 <br>
 
-Coming soon..
+Coming soon...
 
 <!--
 <h1>Courses</h1>
