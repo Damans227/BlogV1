@@ -24,12 +24,16 @@ feature_row2:
 
 ---
 <br>
+
+Coming soon..
+
+<!--
 <h1>Courses</h1>
 
 {% include feature_row id="feature_row1" type="left" %}
 
 
-{% include feature_row id="feature_row2" type="right" %}
+{% include feature_row id="feature_row2" type="right" %}-->
 
 
 
