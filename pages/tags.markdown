@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Notes
+title: Posts By Tags
 author_profile: true
 permalink: /pages/tags/
 ---
