@@ -124,5 +124,7 @@ plugins: #******ENABLE THIS*****
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+
+classes: wide
   
 
