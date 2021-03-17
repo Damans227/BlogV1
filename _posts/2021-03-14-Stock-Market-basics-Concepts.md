@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Stock Market basic concepts - Part I"
+title:  "Stock market basic concepts - Part I"
 date:   2021-03-14 15:38:11 -0500
 categories: Docker
 show_date: true 
