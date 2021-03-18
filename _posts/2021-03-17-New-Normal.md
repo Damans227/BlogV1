@@ -10,6 +10,8 @@ header:
 ---
 The 2020 pandemic shook up the business world in a way that we have never seen before and it is going to change the way that we do business forever into the future and that's what I'm going to be talking about today. 
 
+<h1 id="Post pandemic office life" >A look into post pandemic office life</h1>
+
 Office life is never going to be the same and that's kind of a fitting topic. The office life and business market is going to change and it is changing very quickly. I think the most obvious thing is that most companies especially digital companies are going to follow a virtual first model where people and employees don't have to come into the office every single day.  
 
 <blockquote>People are not going to have an assigned desk it's going to be more of a shared open office space where people can come in a couple times a week or three times a week and then they can work from home or wherever they want the other times but an office would be kind of like a cool place to come hang out and work when you feel like it so you can work on your own time on your own schedule from wherever you want. </blockquote>
