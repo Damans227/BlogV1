@@ -31,7 +31,7 @@ public int countEvents(int elements[]){
 
 In a nutshell this method is supposed to return the count of how many even numbers there were in the input array. And because an algorithm is simply instructions to a computer on how to solve a particular problem, the lines of code you see here can simply be referred to as an algorithm to count the number of even numbers in the given input. 
 
-Generally an algorithm is considered efficient if it scales well relative to input. And for example the one we have here will execute the loop as many times as a number of elements in the input array. So let's say we pass in an array containing 50 elements. The loop will run 50 times once for each slot of the array to check if the number is even or not. Now we have a thousand elements in the array and this loop will execute 100000 times. So if we were to graph the efficiency of this algorithm it would look something like this:
+Generally an algorithm is considered efficient if it scales well relative to input. And for example the one we have here will execute the loop as many times as a number of elements in the input array. So let's say we pass in an array containing 50 elements. The loop will run 50 times once for each slot of the array to check if the number is even or not. Now we have a hundred thousand elements in the array and this loop will execute 100000 times. So if we were to graph the efficiency of this algorithm it would look something like this:
 
 ![image linear](https://raw.githubusercontent.com/Damans227/BlogV1/gh-pages/assets/images/linear.png)
 
