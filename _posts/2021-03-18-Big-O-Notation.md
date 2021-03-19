@@ -33,7 +33,7 @@ In a nutshell this method is supposed to return the count of how many even numbe
 
 Generally an algorithm is considered efficient if it scales well relative to input. And for example the one we have here will execute the loop as many times as a number of elements in the input array. So let's say we pass in an array containing 50 elements. The loop will run 50 times once for each slot of the array to check if the number is even or not. Now we have a thousand elements in the array and this loop will execute 100000 times. So if we were to graph the efficiency of this algorithm it would look something like this:
 
-![image linear](./assets/images/linear.png)
+![image linear](/assets/images/linear.png)
 
 The time it takes to run this algorithm is `linearly dependent` on the size of the input. In other words this algorithm scales `linearly` as the size of input increases. So keep this terminology in mind. Algorithms that iterate an entire list of things are typically `linear'.
 
@@ -51,7 +51,7 @@ Ok this only has a single line of instruction in the method body and the method 
 
 Now take a look at how this looks on the graph:
 
-![image constant](./assets/images/constant.png)
+![image constant](/assets/images/constant.png)
 
 So notice the running time of a constant operation regardless of the input size. We can have an array of a million elements. It's going to run the same as an array that has you know just one element. It's just immediately going to return the data because we have the index position of where we want.
 
@@ -78,7 +78,7 @@ Now let's say if the first array contains 10 elements and the second array also 
 
 So if I wanted to graph the running time of this method the graph would look roughly something like this: 
 
-![image quadratic](./assets/images/quadratic.png)
+![image quadratic](/assets/images/quadratic.png)
 
 As you can see this does not scale as well with large inputs. The more input values we run in the algorithm, the slower it's going to get. And there's kind of a structure that has to iterate over a loop that is inside another loop is referred to as a `quadratic`. The term quadratic in math simply means squared and the number of operations the computer will run in this kind of an algorithm is going to be the `input squared`. That's why it's referred to as a `quadratic`.
 
