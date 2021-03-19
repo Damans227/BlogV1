@@ -10,11 +10,11 @@ header:
 
 In computer science a set of terminology has been developed to make it easier to talk about the logic behind a code. The ability to use those terms, will enable you to become a better programmer. Having a comprehensive understanding of these terms also allows you to compare the efficiency of different approaches to a coding problem. It's like math except it's an awesome, not-boring kind of math!
 
-<h1 id="1. What is an algorithm ? ">1. What is an algorithm ?</h1>
+<h1 id="1. What is an algorithm ?">1. What is an algorithm ?</h1>
 
 Now in order to solve any problem in computer science generally we write computer programs. These are considered instructions given to a computer to solve a particular problem. There is a term for this in computer science. The step by step code that goes into instructions we tell to a computer in a particular program is basically called an `algorithm`. So basically any piece of code that performs some operation can be considered an `algorithm`.
 
-<h1 id="2. Linear growth rate ">2. Linear growth rate</h1>
+<h1 id="2. Linear growth rate">2. Linear growth rate</h1>
 So let's take a look at a method. Here's some code that returns the count of even numbers in a list of integers: 
 
 {% highlight java %}
@@ -37,7 +37,7 @@ Generally an algorithm is considered efficient if it scales well relative to inp
 
 The time it takes to run this algorithm is `linearly dependent` on the size of the input. In other words this algorithm scales `linearly` as the size of input increases. So keep this terminology in mind. Algorithms that iterate an entire list of things are typically `linear'.
 
-<h1 id="3. Constant-Time growth rate ">3. Constant growth rate</h1>
+<h1 id="3. Constant-Time growth rate">3. Constant growth rate</h1>
 
 Now, take a look at this method definition:
 
@@ -51,11 +51,11 @@ Ok this only has a single line of instruction in the method body and the method 
 
 Now take a look at how this looks on the graph:
 
-![image constant](/assets/images/constant.png)
+![image constant](https://raw.githubusercontent.com/Damans227/BlogV1/gh-pages/assets/images/constant.png)
 
 So notice the running time of a constant operation regardless of the input size. We can have an array of a million elements. It's going to run the same as an array that has you know just one element. It's just immediately going to return the data because we have the index position of where we want.
 
-<h1 id="4. Quadratic growth rate ">4. Quadratic growth rate</h1>
+<h1 id="4. Quadratic growth rate">4. Quadratic growth rate</h1>
 
 Let's look at an algorithm that would be much slower than the one we have here. And that is a loop that's inside of a loop. And when we have loops inside of loops things really start to slow down. For example, take a look at this method:
 
@@ -78,13 +78,13 @@ Now let's say if the first array contains 10 elements and the second array also 
 
 So if I wanted to graph the running time of this method the graph would look roughly something like this: 
 
-![image quadratic](/assets/images/quadratic.png)
+![image quadratic](https://raw.githubusercontent.com/Damans227/BlogV1/gh-pages/assets/images/quadratic.png)
 
 As you can see this does not scale as well with large inputs. The more input values we run in the algorithm, the slower it's going to get. And there's kind of a structure that has to iterate over a loop that is inside another loop is referred to as a `quadratic`. The term quadratic in math simply means squared and the number of operations the computer will run in this kind of an algorithm is going to be the `input squared`. That's why it's referred to as a `quadratic`.
 
 <blockquote>So keep these terms in mind, we got linear, constant and we have quadratic and don't let these fancy mathematical terms scare you.</blockquote>
 
-<h1 id="5. Big O notation ">5. Big O notation</h1>
+<h1 id="5. Big O notation">5. Big O notation</h1>
 
 When we talk about terms like linear, quadratic we're basically communicating in English. But to communicate these kinds of ideas globally you need in a language that transcends all countries and cultures. So there's no confusion. And in most sciences this is done through symbols and notations and computer science is no different to communicate the efficiency of algorithms. We use a shorthand notation called asymptotic notation.
 
