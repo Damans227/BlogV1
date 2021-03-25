@@ -28,7 +28,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 
 baseurl: "BlogV1"  #****ENABLE THIS****
 
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://daemonsets.com/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  
 
