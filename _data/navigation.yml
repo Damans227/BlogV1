@@ -6,7 +6,7 @@ main:
   - title: "Posts"
     url: /pages/posts/
   - title: "Tags"
-    url: /pages/tags/
+    url: /tags/
   - title: "Projects"
     url: /pages/projects/
 
