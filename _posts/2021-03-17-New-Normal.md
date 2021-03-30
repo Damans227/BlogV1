@@ -6,7 +6,7 @@ categories: Covid-19
 show_date: true 
 header:
   image: /assets/images/covid.jpg
-
+tags: pandemic covid corona
 ---
 The 2020 pandemic shook up the business world in a way that we have never seen before and it is going to change the way that we do business forever into the future and that's what I'm going to be talking about today. 
 

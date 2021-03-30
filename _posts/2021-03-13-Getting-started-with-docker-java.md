@@ -6,6 +6,7 @@ categories: Docker
 show_date: true 
 header:
   image: /assets/images/Docker-Java.webp
+tags: docker java
 ---
 
 In this article, we take a look at a `Java API Client for Docker`.
