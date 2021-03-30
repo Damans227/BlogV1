@@ -26,7 +26,7 @@ feature_row3:
   - image_path: /assets/images/project3.png
     alt: "placeholder image 3"
     title: "Screenspace - Transform your screens into powerful digital signs."
-    excerpt: "Screenspace is a java based web application that acts as a central repository for the images displayed on a digital screen. These images will be displayed on your digital screen directly from our applications dashboard using Raspberry Pi. This project was completed as part of a graduate level course taken at Carleton University."
+    excerpt: "Screenspace is a java based web application that enables its users to enhance and modernize their digital signage infrastructure. The content hosted in Screenspace application is streamed directly on the digital screens via Raspberry Pi. This project was completed as part of a graduate level course taken at Carleton University."
 
     url: "https://github.com/Damans227/Screenspace"
     btn_label: "Github"
