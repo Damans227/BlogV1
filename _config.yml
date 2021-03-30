@@ -126,6 +126,8 @@ plugins: #******ENABLE THIS*****
   - jemoji
   - jekyll-include-cache
 
-
+tag_archive:
+  type: liquid
+  path: /tags/
   
 
