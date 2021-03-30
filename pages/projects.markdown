@@ -16,7 +16,7 @@ feature_row1:
 feature_row2:
   - image_path: /assets/images/project2.png
     alt: "placeholder image 2"
-    title: "Stockquote - know your stocks!"
+    title: "Stockquote - Know your stocks!"
     excerpt: "Stockquote is a java based web application which leverages Yahoo-Finance API to request detailed information, some statistics and historical quotes on stocks. Stockquote has a simple and easy to follow user interface built using bootstrap 4."
     url: "https://github.com/Damans227/Stockquote"
     btn_label: "Github"
@@ -39,6 +39,7 @@ feature_row3:
 
 
 {% include feature_row id="feature_row1" type="left" %}
+
 
 {% include feature_row id="feature_row2" type="right"%}
 
