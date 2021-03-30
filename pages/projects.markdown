@@ -37,7 +37,7 @@ feature_row4:
     alt: "placeholder image 4"
     title: "Covid-19 academic research dashboard"
     excerpt: "A data analytics dashboard which encapsulates interactive visualizations and machine learning techniques, to depict how COVID-19 has affected the productivity of female academics versus male academics in their unique abilities to publish and contribute to STEM academia. Ultimately, encouraging greater participation, publishing and contributions of women in STEM academia. This project was completed as a group work for a graduate level course taken at Carleton University."
-"
+    
     url: "https://mediaspace.carleton.ca/media/%5BITEC+5207%5D+THE+STANDARD+DEVIANTS/1_dlqycae0"
     btn_label: "Video"
     btn_class: "btn--primary"
