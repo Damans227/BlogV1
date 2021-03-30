@@ -6,7 +6,7 @@ categories: Docker
 show_date: true 
 header:
   image: /assets/images/stock.jpg
-
+tags: investing
 ---
 
 I started my investment journey last year i.e 2020 and have learnt quite a few things about stock market. I would like to share some of my knowledge about investing with everyone, which will particularly be helpful for the beginners. 

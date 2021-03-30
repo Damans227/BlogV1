@@ -6,6 +6,7 @@ categories: Algorithms
 show_date: true 
 header:
   image: /assets/images/BigO.jpg
+tags: algorithms
 ---
 
 In computer science a set of terminology has been developed to make it easier to talk about the logic behind a code. The ability to use those terms, will enable you to become a better programmer. Having a comprehensive understanding of these terms also allows you to compare the efficiency of different approaches to a coding problem. It's like math except it's an awesome, not-boring kind of math!

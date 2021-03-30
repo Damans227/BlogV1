@@ -6,7 +6,7 @@ categories: Docker
 show_date: true 
 header:
   image: /assets/images/Jekyll.jpg
-
+tags: jekyll
 ---
 
 Here is a quick way how you can enable pagination in Jekyll that indicates the current page with a few pages around it.

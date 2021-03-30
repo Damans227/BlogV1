@@ -6,7 +6,7 @@ categories: Docker
 show_date: true 
 header:
   image: /assets/images/slack.jpg
-tags: slack poem
+tags: slack
 ---
 
 I like using `Slack` a lot at work and school. It's been a few years now that it came along and since then my love for slack has been growing, so much so, that a short while ago, I also wrote a poem to express my admiration for it. Today, I would like to share that poem with everyone, Enjoy!  
