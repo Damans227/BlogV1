@@ -32,6 +32,17 @@ feature_row3:
     btn_label: "Github"
     btn_class: "btn--primary"
 
+feature_row4:
+  - image_path: /assets/images/project4.png
+    alt: "placeholder image 4"
+    title: "Covid-19 academic research dashboard"
+    excerpt: "A data analytics dashboard which encapsulates interactive visualizations and machine learning techniques, to depict how COVID-19 has affected the productivity of female academics versus male academics in their unique abilities to publish and contribute to STEM academia. Ultimately, encouraging greater participation, publishing and contributions of women in STEM academia. This project was completed as a group work for a graduate level course taken at Carleton University."
+"
+    url: "https://mediaspace.carleton.ca/media/%5BITEC+5207%5D+THE+STANDARD+DEVIANTS/1_dlqycae0"
+    btn_label: "Video"
+    btn_class: "btn--primary"
+
+
 ---
 <br>
 
@@ -40,10 +51,11 @@ feature_row3:
 
 {% include feature_row id="feature_row1" type="left" %}
 
-
 {% include feature_row id="feature_row2" type="right"%}
 
 {% include feature_row id="feature_row3" type="left"%}
+
+{% include feature_row id="feature_row4" type="right"%}
 
 
 
