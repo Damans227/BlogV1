@@ -71,7 +71,7 @@ paginate: 5
 author:
   name: "Daman Arora"
   avatar: "/assets/images/Damanarora.png"
-  bio: "Hello World, <br /> I’m Daman. A software professional and Master of Engineering student at **[Carleton University](https://carleton.ca/)** I'm a highly motivated developer, constantly seeking new, challenging, and exciting opportunities to improve my abilities. Please feel free to look around or find me on social media. <br /><br />  Thanks for visiting my site!" # Note: Markdown is allowed
+  bio: "Hello World, <br /> I’m Daman. A highly motivated software developer pursuing Master of Engineering at **[Carleton University](https://carleton.ca/)**. I'm constantly seeking new, challenging, and exciting opportunities to improve my abilities. Please feel free to look around or find me on social media. <br />Thanks for visiting my site!" # Note: Markdown is allowed
   location: "Canada"
   links:
     - label: "Websites"
