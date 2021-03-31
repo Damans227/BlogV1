@@ -71,7 +71,7 @@ paginate: 5
 author:
   name: "Daman Arora"
   avatar: "/assets/images/Damanarora.png"
-  bio: "Hello World! <br /> I’m Daman, a Software Engineer by profession currently working towards a Masters Degree at **[Carleton University](https://carleton.ca/)** and sharing the lessons along the way. I use this website as a public journal." # Note: Markdown is allowed
+  bio: "Hello World, <br /> I’m Daman. An experienced software professional working towards the Master of Engineering degree at **[Carleton University](https://carleton.ca/)** and sharing the lessons along the way. I'm a highly motivated developer, constantly seeking new, challenging, and exciting opportunities to improve my abilities. Please feel free to look around or find me on social media. <br /> Thanks for visiting my site!" # Note: Markdown is allowed
   location: "Canada"
   links:
     - label: "Websites"
